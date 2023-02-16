@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Computer Graph\GAMES\GAMES202\作业\GAMES202-homework4\homework4\lut-gen\Eavg_IS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Computer Graph\GAMES\GAMES202\作业\GAMES202-homework4\homework4\lut-gen\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A4373CD-486E-3878-B903-265F7C148787}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Computer Graph\GAMES\GAMES202\作业\GAMES202-homework4\homework4\lut-gen\build\CMakeFiles\4f76266b0fe255cba0c3ca044fbc9cb2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BF6FF2E4-3A70-351D-A50D-E1F65A7BF040}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

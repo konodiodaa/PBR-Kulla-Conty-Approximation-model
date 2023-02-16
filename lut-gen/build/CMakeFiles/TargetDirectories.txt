@@ -1,0 +1,6 @@
+D:/Computer Graph/GAMES/GAMES202/作业/GAMES202-homework4/homework4/lut-gen/build/CMakeFiles/lut-Emu-MC.dir
+D:/Computer Graph/GAMES/GAMES202/作业/GAMES202-homework4/homework4/lut-gen/build/CMakeFiles/lut-Eavg-MC.dir
+D:/Computer Graph/GAMES/GAMES202/作业/GAMES202-homework4/homework4/lut-gen/build/CMakeFiles/lut-Emu-IS.dir
+D:/Computer Graph/GAMES/GAMES202/作业/GAMES202-homework4/homework4/lut-gen/build/CMakeFiles/lut-Eavg-IS.dir
+D:/Computer Graph/GAMES/GAMES202/作业/GAMES202-homework4/homework4/lut-gen/build/CMakeFiles/ALL_BUILD.dir
+D:/Computer Graph/GAMES/GAMES202/作业/GAMES202-homework4/homework4/lut-gen/build/CMakeFiles/ZERO_CHECK.dir
